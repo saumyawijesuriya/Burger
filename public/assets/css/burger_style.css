@@ -1,0 +1,47 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background-color: transparent;
+    width: 30%;
+  }
+  #d2{
+    position: relative;
+  /* position: absolute; */
+  left: 800px;
+  top:-150px;
+}
+    
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  button{
+    background-color: transparent; 
+  }
+  .form-group {
+    margin-bottom: 5px;
+  }
+  h1{
+    color: brown;
+    text-align: center;
+  }
+  
+#d1{
+ position: relative;
+
+}
+body {
+  background-image: url(https://media.giphy.com/media/l4Ki5FgQxmVUfkOvC/giphy.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+/* body{
+  background-color: aqua; 
+} */
